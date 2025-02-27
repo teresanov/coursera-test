@@ -1,6 +1,6 @@
-title: Mi Sitio con Jekyll
-description: Este es mi sitio desplegado con GitHub Pages y Jekyll
-theme: minima  # Puedes cambiar el tema si quieres otro
+title: Coursera HTML CSS5 JAVA course
+description: Aquí todo lo que ponga
+theme: alembic  # Puedes cambiar el tema si quieres otro
 show_excerpts: true
 exclude:
   - README.md
