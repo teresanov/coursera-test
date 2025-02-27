@@ -20,9 +20,11 @@ This is my first hands-on project in Front-End Development, where I'll be learni
 
 ## 🌍 Live Demo
 Check out the live project here: [Project Link](YOUR_PROJECT_URL)
+Soon...not yet
 
 ## 📸 Preview
 ![Project Screenshot](path/to/screenshot.png)
+Soon...not yet.
 
 ---
 
