@@ -1,8 +1,9 @@
 title: Coursera HTML CSS5 JAVA course
 description: Aquí todo lo que ponga
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: curtislawrence/alembic@master
 plugins:
   - jekyll-remote-theme
+
 
 show_excerpts: true
 exclude:
