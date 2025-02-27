@@ -1,6 +1,6 @@
 title: Mi Sitio con Jekyll
 description: Este es mi sitio desplegado con GitHub Pages y Jekyll
 theme: minima  # Puedes cambiar el tema si quieres otro
-plugins:
-  - jekyll-remote-theme  # Solo si usas un tema externo
-
+show_excerpts: true
+exclude:
+  - README.md
