@@ -4,3 +4,4 @@ theme: minima  # Puedes cambiar el tema si quieres otro
 show_excerpts: true
 exclude:
   - README.md
+
